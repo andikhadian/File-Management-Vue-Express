@@ -1,4 +1,4 @@
-# file-management-vue-express
+# frontend
 
 ## Project setup
 ```
